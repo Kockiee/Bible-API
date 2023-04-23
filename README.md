@@ -1,1 +1,1 @@
-# Study-Bible-API
+# Bible-API
