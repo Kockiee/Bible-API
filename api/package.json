@@ -1,5 +1,5 @@
 {
-  "name": "weather-api",
+  "name": "bible-api",
   "version": "1.0.0",
   "description": "Api de clima",
   "main": "index.js",
